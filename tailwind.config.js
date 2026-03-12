@@ -9,8 +9,8 @@ export default {
     extend: {
       colors: {
         teal: {
-          900: '#0A0F1E', // Dark background as requested
-          800: '#0D7377', // Deep Teal
+          900: '#0A0F1E',
+          800: '#0D7377',
         },
         gold: '#F4C430',
       },
