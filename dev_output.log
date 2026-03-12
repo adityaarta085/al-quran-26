@@ -1,5 +1,10 @@
-npm error Missing script: "dev"
-npm error
-npm error To see a list of scripts, run:
-npm error   npm run
-npm error A complete log of this run can be found in: /home/jules/.npm/_logs/2026-03-11T16_51_37_522Z-debug-0.log
+
+> mega-islam@0.1.0 dev
+> vite
+
+Re-optimizing dependencies because vite config has changed
+
+  VITE v5.4.21  ready in 701 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
